@@ -1,0 +1,12 @@
+.friendBox{
+    border: 2px solid tomato;
+    border-radius: 10px;
+    background: lightyellow;
+    margin: 30px;
+}
+
+.box{
+    border: 2px solid tomato;
+    border-radius: 5px;
+    margin: 20px;
+}
